@@ -9,6 +9,12 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: WhyInterEco.qmd
+      - text: Why InterEco?
+      - href: InterEcoTool.qmd
+      - text: InterEco Tool?
+      - href: example.qmd
+        text: Example
 
 format:
   html:
