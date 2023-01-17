@@ -10,7 +10,19 @@ Hello and welcome to **InterEco**! Here you can learn how to build a free, inter
 
 By making your own InterEco website, you will provide your audience (e.g., fellow ecologists, policymakers or practitioners) with personalised options to evaluate and interact with different aspects of the data, such as model predictions under user-specified conditions, or options to visualise the underlying data in different graphical formats. In doing so, your website can facilitate richer interpretation, improve research openness and increase the impact of your research.
 
-The InterEco tool comprises a detailed, step-by-step guide for making your website. To get started with your own model, you can either follow the guide \[link\], or jump to our guthib page \[link\] and download a shortened versionXXXX. Our detailed guide explains the rationale behind InterEco, and works with an example data set \[link download\]. We provide lots of hints and tips, with examples of code, which can be modified to suit your needs. You can also view an example InterEco webpage here \[link to worked example\].
+InterEco websites have a basic structure, consisting of five separate tabs (see here \[link\] for more info, and here \[link\] for an example webpage):
+
+1\) Study summary
+
+2\)
+
+3\) Interpretation - here you provide readers with xxx/ appropriate interpretation.
+
+4\)
+
+5\)
+
+The InterEco tool comprises a detailed, step-by-step guide for making a website that follows this basic structure. To get started with your own model, you can either follow the guide \[link\], or jump to our guthib page \[link\] and download a shortened versionXXXX. Our detailed guide explains the rationale behind InterEco, and works with an example data set \[link download\]. We provide lots of hints and tips, with examples of code, which can be modified to suit your needs. You can also view an example InterEco webpage here \[link to worked example\].
 
 **Why InterEco?**
 
