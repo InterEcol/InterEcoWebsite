@@ -1,0 +1,26 @@
+---
+title: "InterEco webpage overview"
+editor: visual
+---
+
+InterEco webpages consist of five tabs, as follows:
+
+1.   study summary
+
+-   may want to standalone from paper, may not
+
+-   study details - authors, link to paper/organisation, funding...
+
+-   aim, objectives
+
+-   taxa, location,
+
+-   locations, spatial layers - option to choose which to plot
+
+-   main findings and conclusions
+
+3\) Interpretation
+
+4\) Generality
+
+5\) Validity
