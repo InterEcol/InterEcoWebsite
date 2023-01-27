@@ -2,4 +2,49 @@
 title: "The InterEco Tool"
 ---
 
-This page is about the Tool
+**1) Getting started**
+
+To get started with making your InterEco website, you will first need to install some R packages.
+
+```{}
+```
+
+*Setup R on your computer*
+
+If you do not have R on your machine, first install [R](https://cran.r-project.org/). It's also a good idea to download RStudio, a popular integrated development environment for coding with R, created by posit (\[download\](https://posit.co/products/open-source/rstudio/)).
+
+*Download necesary R packages*
+
+```{r}
+# here download all relevant packages for this project
+# needs to check if they are installed and if not install, then load all the libraries.
+
+```
+
+**Working with our example dataset**
+
+We will work with dataset from study in XX et al. describe din our paper
+
+```{r}
+data(antdata)
+```
+
+**Setting up your InterEco webpage**
+
+first of all, set up an empty sshiny app. we will build this nefpre we add contenty...
+
+```{r}
+# add empty code chunk - shiny framework
+```
+
+**2) Setting up you landing page tab**
+
+here we are setting up our landing page are editing the code between xxx and xxx.
+
+The landing page is intended to XXXX.
+
+In our ant example, we...
+
+```{r}
+
+```
