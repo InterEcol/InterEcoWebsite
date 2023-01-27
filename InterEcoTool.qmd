@@ -23,10 +23,15 @@ If you do not have R on your machine, first install [R](https://cran.r-project.o
 
 **Working with our example dataset**
 
-We will work with dataset from study in XX et al. describe din our paper
+We will work with dataset from study in XX et al. describe din our paper. We need to upload two things:
+
+i\) the dataset - For tips on good practice e.g,, sensible variables names, see LINK.
+
+ii\) the model - \[give details of suppoorted models. Saved as rds files.\] For details on how to save a model, see LINK.
 
 ```{r}
 data(antdata)
+
 ```
 
 **Setting up your InterEco webpage**
