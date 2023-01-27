@@ -16,11 +16,17 @@ If your paper is behind a paywall,
 If alongside a published article, cite this here to emphasise peer-reviewed.
 
 1.  
+
 2.  may want to standalone from paper, may not
+
 3.  study details - authors, link to paper/organisation, funding...
+
 4.  aim, objectives
+
 5.  taxa, location,
+
 6.  locations, spatial layers - option to choose which to plot
+
 7.  main findings and conclusions
 
 3\) Interpretation

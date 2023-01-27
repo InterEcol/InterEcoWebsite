@@ -12,15 +12,15 @@ With an InterEco website, you can present the results of your statistical analys
 
 The InterEco Tool consists of a set of detailed guidelines to help you build your website. InterEco websites have a basic structure, consisting of five separate tabs (see here \[link\] for more info, and here \[link\] for an example webpage):
 
-1\) [Study summary]{.underline}
+1\) Landing page -
 
-2\)
+2\) [Study summary -]{.underline}
 
-3\) [Interpretation]{.underline} - here you will guide your readers provide readers with xxx/ appropriate interpretation.
+3\) Validity - first?
 
-4\) [Generality]{.underline} - here
+[4) Interpretation]{.underline} - here you will guide your readers provide readers with xxx/ appropriate interpretation.
 
-5\)
+5\) Generality -
 
 The InterEco Tool comprises a detailed, step-by-step guide for making your own InterEco website that follows this basic structure. \[**say it** **tells what you should think about and why..., based on statistical literature or good practice??**\]
 
@@ -29,6 +29,8 @@ To get started with your own model, you can either follow the guide \[link\], or
 **Who should use InterEco?**
 
 InterEco is aimed at ecologists who fit statistical models to data, where the models involve nonlinear relationships. For example, models may contain terms such as statistical interactions (product terms), polynomials, transformed variables, or may comprise generalized linear models with nonlinear link functions. Your model might be relatively simple, e.g., a linear model with two predictors and their interaction, or a more complex generalised linear model with several predictors.
+
+currently supported are lm, glm/.. lme4
 
 **Why InterEco?**
 
