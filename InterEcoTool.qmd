@@ -6,9 +6,6 @@ title: "The InterEco Tool"
 
 To get started with making your InterEco website, you will first need to install some R packages.
 
-```{}
-```
-
 *Setup R on your computer*
 
 If you do not have R on your machine, first install [R](https://cran.r-project.org/). It's also a good idea to download RStudio, a popular integrated development environment for coding with R, created by posit (\[download\](https://posit.co/products/open-source/rstudio/)).
@@ -30,8 +27,9 @@ i\) the dataset - For tips on good practice e.g,, sensible variables names, see 
 ii\) the model - \[give details of suppoorted models. Saved as rds files.\] For details on how to save a model, see LINK.
 
 ```{r}
-data(antdata)
-
+library(InterEco)
+data(fake_data)
+fake_data
 ```
 
 **Setting up your InterEco webpage**
